@@ -34,3 +34,5 @@ public class ejercicio22 {
     }
 }
     
+//CAMBIOS PARA LA COMPUTADOR VIRTUAL
+//SOLO PRUEBA
